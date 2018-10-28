@@ -1,6 +1,6 @@
 package NeuralNetworkProject2;
 
-public class Perceptron {
+public class Perceptron { 
     public static final double THRESHOLD = 1.0;
     public static final int[][][] andData = {{{0, 0}, {0}},
             {{0, 1}, {0}},
