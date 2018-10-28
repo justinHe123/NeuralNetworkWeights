@@ -1,4 +1,4 @@
-package neuralNetwork;
+package NeuralNetworkProject1;
 
 public class Perceptron {
     // training data
